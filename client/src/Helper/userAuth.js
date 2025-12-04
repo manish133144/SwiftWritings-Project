@@ -108,3 +108,4 @@ export function createAccount(e, refs) {
             messageRef.current.classList.add("active");
         }).catch((err) => console.log(err));
 }
+

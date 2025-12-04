@@ -10,3 +10,4 @@ mongoose
     console.log("Mongoose Connected!");
   })
   .catch((err) => console.log(err));
+

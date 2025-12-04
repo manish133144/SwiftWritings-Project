@@ -49,3 +49,4 @@ const register = (req, res) => {
 module.exports = {
     localLogin, register
 }
+
