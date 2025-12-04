@@ -13,3 +13,4 @@ export const Card = styled(BlogPost)`
     color: var(--dark-color);
   }
 `;
+

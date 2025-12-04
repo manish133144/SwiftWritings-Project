@@ -59,3 +59,4 @@ const BookmarkCard = ({ blog }) => {
     </Card>
   );
 };
+

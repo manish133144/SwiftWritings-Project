@@ -130,3 +130,4 @@ export const PostData = styled.table`
     background-color: #e4e1e1;
   }
 `;
+

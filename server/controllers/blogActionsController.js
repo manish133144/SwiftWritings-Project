@@ -51,3 +51,4 @@ const toggleBlogBookmarks = (req, res) => {
 }
 
 module.exports = { toggleBlogBookmarks, toggleBlogLikes }
+

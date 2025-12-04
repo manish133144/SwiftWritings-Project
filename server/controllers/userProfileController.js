@@ -64,3 +64,4 @@ const removeBookmark = (req, res) => {
 }
 
 module.exports = { getProfile, getBookmarks, getDrafts, removeBookmark }
+

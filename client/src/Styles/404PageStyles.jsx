@@ -15,3 +15,4 @@ export const Page = styled.div`
     text-align: center;
   }
 `;
+

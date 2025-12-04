@@ -31,3 +31,4 @@ export function toggleIcons(e) {
         e.target.classList.add('fas')
     }
 }
+

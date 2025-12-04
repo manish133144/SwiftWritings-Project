@@ -37,3 +37,4 @@ export const NotificationCard = styled.li`
     display: flex;
   }
 `;
+

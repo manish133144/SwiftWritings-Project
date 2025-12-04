@@ -134,3 +134,4 @@ export const MobileBar = styled(Bar)`
     display: none;
   }
 `;
+

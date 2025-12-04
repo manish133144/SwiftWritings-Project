@@ -77,3 +77,4 @@ export const ConfirmationCard = styled.div`
     }
   }
 `;
+

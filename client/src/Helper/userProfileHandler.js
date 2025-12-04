@@ -64,3 +64,4 @@ export function removePost(id, username, setState, dispatcher) {
             }
         }).catch((err) => console.log(err));
 }
+

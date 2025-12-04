@@ -35,3 +35,4 @@ export const profileSlice = createSlice({
 
 export const { setProfileData, notify, deleteNotification, clearNotifications } = profileSlice.actions
 export default profileSlice.reducer;
+

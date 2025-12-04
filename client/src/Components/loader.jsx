@@ -25,3 +25,4 @@ export function stopLoader() {
   overlay.classList.remove("active");
   loader.classList.remove("active");
 }
+

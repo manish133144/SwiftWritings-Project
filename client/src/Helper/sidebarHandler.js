@@ -21,3 +21,4 @@ export default function toggleListItem(username) {
     if (!li) return
     li.classList.add('active')
 }
+

@@ -50,3 +50,4 @@ const BlogCard = ({ blog }) => {
     </BlogPost>
   );
 };
+

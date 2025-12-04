@@ -26,3 +26,4 @@ export function closeSidebar() {
   const sidebar = document.getElementById("mobile_sidebar");
   sidebar.classList.remove("active");
 }
+

@@ -10,3 +10,4 @@ export function searchFor(query, setState) {
         })
         .catch(err => console.log(err))
 }
+

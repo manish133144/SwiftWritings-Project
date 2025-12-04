@@ -29,3 +29,4 @@ export function toggleLikesOrBookmarks(e, type, id, dispatcher) {
       }
     }).catch((err) => console.log(err));
 }
+
